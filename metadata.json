@@ -1,0 +1,6 @@
+{
+  "name": "Soft Sands Properties",
+  "description": "Tech-forward property platform for verified residential real estate within secured gated estates in Ibadan, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
